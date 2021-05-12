@@ -1,5 +1,4 @@
 # This is my first project on the React JS developer track.
-# This is still under development
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
