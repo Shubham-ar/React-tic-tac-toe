@@ -1,4 +1,4 @@
-body {
+body{
   background-color: #000000;
 }
 
@@ -8,19 +8,18 @@ body {
   grid-gap: 15px;
 }
 
-.box {
-  width: auto;
-  height: 100px;
+.box{
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  height: 100px;
 }
-.icon {
-  font-size: 35px;
-  color: #ffffff;
 
+.icon{
+  font-size: 25px;
+  color: #000000;
 }
-.btn{
-  width: -webkit-fill-available;
 
+.app-heading{
+  text-align: center;
 }
